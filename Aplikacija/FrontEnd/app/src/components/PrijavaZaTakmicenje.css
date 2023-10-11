@@ -1,0 +1,26 @@
+.labele{
+    display: flex;
+    flex-direction: column;
+}
+.polja{
+    display: flex;
+    flex-direction: column;
+}
+.form-group{
+    display: inline-block;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+.polja{
+    display: flex;
+    flex-direction: column;
+    
+}
+.forma-takmicenje{
+    display:flex;
+    flex-direction: column;
+}
